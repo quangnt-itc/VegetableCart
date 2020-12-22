@@ -1,0 +1,57 @@
+[
+  {
+    id: "0",
+    name: "Chuối",
+    imageSrc: "~/assets/images/chuoi.jpg",
+  },
+  {
+    id: "1",
+    name: "Táo",
+    imageSrc: "~/assets/images/tao.jpg",
+  },
+  {
+    id: "2",
+    name: "Cam",
+    imageSrc: "~/assets/images/cam.jpg",
+  },
+  {
+    id: "3",
+    name: "Nho",
+    imageSrc: "~/assets/images/nho.jpg",
+  },
+  {
+    id: "4",
+    name: "Dâu Tây",
+    imageSrc: "~/assets/images/dau.jpg",
+  },
+  {
+    id: "5",
+    name: "Súp Lơ",
+    imageSrc: "~/assets/images/suplo.jpg",
+  },
+  {
+    id: "6",
+    name: "Cà Chua",
+    imageSrc: "~/assets/images/cachua.jpg",
+  },
+  {
+    id: "7",
+    name: "Đậu Que",
+    imageSrc: "~/assets/images/dauque.jpg",
+  },
+  {
+    id: "8",
+    name: "Ớt Chuông",
+    imageSrc: "~/assets/images/otchuong.jpg",
+  },
+  {
+    id: "9",
+    name: "Xà Lách",
+    imageSrc: "~/assets/images/xalach.jpg",
+  },
+  {
+    id: "10",
+    name: "Cà Tím",
+    imageSrc: "~/assets/images/catim.jpg",
+  }
+]
